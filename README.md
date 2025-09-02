@@ -188,8 +188,8 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 
 ## Classification Report
+<img width="547" height="333" alt="image" src="https://github.com/user-attachments/assets/2503734e-1f07-4242-ad3f-43e196e562a9" />
 
-<img width="598" height="231" alt="image" src="https://github.com/user-attachments/assets/b0e52c7f-ba4e-439e-8e61-44113a7f54f3" />
 
 ### New Sample Data Prediction
 <img width="402" height="53" alt="image" src="https://github.com/user-attachments/assets/bd8dcf0f-db2e-42b4-9794-db8ee0b3286e" />
